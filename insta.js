@@ -5,3 +5,4 @@
     s.src = "http://instant.page/3.0.0";
   
     document.head.appendChild(s);
+window.alert("Hello from instal")
